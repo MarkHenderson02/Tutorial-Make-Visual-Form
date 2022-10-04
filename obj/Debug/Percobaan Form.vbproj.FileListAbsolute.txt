@@ -1,0 +1,12 @@
+G:\52020007\Pemg Visual\PrakModul1\Percobaan Form\Percobaan Form\bin\Debug\Percobaan Form.exe.config
+G:\52020007\Pemg Visual\PrakModul1\Percobaan Form\Percobaan Form\bin\Debug\Percobaan Form.exe
+G:\52020007\Pemg Visual\PrakModul1\Percobaan Form\Percobaan Form\bin\Debug\Percobaan Form.pdb
+G:\52020007\Pemg Visual\PrakModul1\Percobaan Form\Percobaan Form\bin\Debug\Percobaan Form.xml
+G:\52020007\Pemg Visual\PrakModul1\Percobaan Form\Percobaan Form\obj\Debug\Percobaan Form.vbproj.AssemblyReference.cache
+G:\52020007\Pemg Visual\PrakModul1\Percobaan Form\Percobaan Form\obj\Debug\Percobaan_Form.frmcoba.resources
+G:\52020007\Pemg Visual\PrakModul1\Percobaan Form\Percobaan Form\obj\Debug\Percobaan_Form.Resources.resources
+G:\52020007\Pemg Visual\PrakModul1\Percobaan Form\Percobaan Form\obj\Debug\Percobaan Form.vbproj.GenerateResource.cache
+G:\52020007\Pemg Visual\PrakModul1\Percobaan Form\Percobaan Form\obj\Debug\Percobaan Form.vbproj.CoreCompileInputs.cache
+G:\52020007\Pemg Visual\PrakModul1\Percobaan Form\Percobaan Form\obj\Debug\Percobaan Form.exe
+G:\52020007\Pemg Visual\PrakModul1\Percobaan Form\Percobaan Form\obj\Debug\Percobaan Form.xml
+G:\52020007\Pemg Visual\PrakModul1\Percobaan Form\Percobaan Form\obj\Debug\Percobaan Form.pdb
